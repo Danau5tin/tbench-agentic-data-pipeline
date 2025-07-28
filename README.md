@@ -83,6 +83,8 @@ All agents work independently in parallel, coordinated by a central Task Manager
 
 ## 🔄 Agent Roles & Workflow
 
+![Single DP Journey](./readme_images/single-dp-journey.png)
+
 Each agent type operates independently with specialized tools and clear responsibilities:
 
 ### 🎨 Idea Generation Agents

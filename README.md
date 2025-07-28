@@ -9,7 +9,13 @@ Because generating quality training data for coding agents requires creativity, 
 ## 🎬 See It In Action
 
 Watch 20+ agents working in parallel to generate training data at scale:
-# TODO: Add here
+
+### 20x agents in parallel
+https://github.com/user-attachments/assets/6cf8819a-343a-4e03-9198-4979d4d160e5
+
+### 6x agents in parallel (easier to follow!)
+
+https://github.com/user-attachments/assets/450cc73b-5316-46ea-a091-278690f4689d
 
 
 ![Pipeline Overview](./readme_images/pipeline-overview.png)
